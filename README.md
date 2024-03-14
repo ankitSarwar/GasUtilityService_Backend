@@ -10,6 +10,8 @@
 * java
 * Spring Boot
 * Hibernate
+* mysql
+  
 ## Dependencies
 The following dependencies are required to run the project:
 
