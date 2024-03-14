@@ -69,6 +69,9 @@ Gas Utility Service uses JWT (JSON Web Tokens) for authentication. To access pro
 
 ![image](https://github.com/ankitSarwar/GasUtilityService_Backend/assets/111841677/15e1cc50-8e08-42f4-b3f4-d6b237e73694)
 
+![image](https://github.com/ankitSarwar/GasUtilityService_Backend/assets/111841677/0499058e-4588-44e2-adb3-61f50b25cfad)
+
+
 ![image](https://github.com/ankitSarwar/GasUtilityService_Backend/assets/111841677/a4cd72e3-e3d4-4703-a222-70b0fef78b2b)
 
 
