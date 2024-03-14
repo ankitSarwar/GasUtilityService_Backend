@@ -69,7 +69,7 @@ public class AdminController {
             if (currentUserOptional.isPresent()) {
                 User currentUser = currentUserOptional.get();
 
-                if ((currentUser.getRoles()).equals(UserRoles.ADMIN)) {
+                if (currentUser.getRoles().contains(UserRoles.ADMIN)) {
                     User user = service.getCustomer(id);
                     if (user != null) {
                         return ResponseEntity.ok(user);
